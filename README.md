@@ -16,12 +16,20 @@
  1.Requirements Gathering and Analysis:
 Conduct stakeholder meetings to understand business objectives.
 Identify target audience and their preferences.
+
 2.User Interface (UI) Design:
 Design a visually appealing and brand-consistent interface.
 Select a color scheme, typography, and imagery that aligns with the brand.
+
 3.Accessibility Design:
 Implement accessibility standards (e.g., WCAG) to ensure the website is usable by people with disabilities.
 Provide features such as keyboard navigation, screen reader compatibility, and adjustable text sizes.
+
+# Technology used
+1.PYTHON
+2.HTML
+3.CSS
+4.JAVA SCRIPT
 
  
  
