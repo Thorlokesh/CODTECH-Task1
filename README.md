@@ -12,8 +12,6 @@
  # Overview of the project
  The E-commerce website project involves creating a fully functional online store that allows users to browse, search, and purchase products. The site should offer a seamless shopping experience, including user registration, product catalog, shopping cart, and secure checkout process. The project aims to develop an intuitive and user-friendly interface, with robust back-end functionalities to handle product management, order processing, and payment integration.
 
-# E commerece website
- https://github.com/Thorlokesh/CODTECH-Task1/blob/79468083c0f741c64ca173e9cb6bf0e331de599f/task1.png
  
  # Objective
  The objective of this project is to design, develop, and launch a comprehensive e-commerce website that enhances our brand's online presence, increases sales, and improves customer satisfaction. This will be achieved by implementing a user-friendly, secure, and scalable platform that provides a seamless shopping experience
